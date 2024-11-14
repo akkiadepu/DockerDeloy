@@ -13,10 +13,7 @@ public class UserControllers {
 	public String Hello() {
 		return "HelloWorld";
 		
-		
-		
-		
-		
+			
 		
 	}
 }
